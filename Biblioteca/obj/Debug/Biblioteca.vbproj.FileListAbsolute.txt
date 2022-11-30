@@ -1,0 +1,12 @@
+C:\Users\virgo\Downloads\Desktop\previas 2022\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\virgo\Downloads\Desktop\previas 2022\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\virgo\Downloads\Desktop\previas 2022\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\virgo\Downloads\Desktop\previas 2022\Biblioteca\bin\Debug\Biblioteca.xml
+C:\Users\virgo\Downloads\Desktop\previas 2022\Biblioteca\obj\Debug\Biblioteca.vbprojAssemblyReference.cache
+C:\Users\virgo\Downloads\Desktop\previas 2022\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+C:\Users\virgo\Downloads\Desktop\previas 2022\Biblioteca\obj\Debug\Biblioteca.Resources.resources
+C:\Users\virgo\Downloads\Desktop\previas 2022\Biblioteca\obj\Debug\Biblioteca.vbproj.GenerateResource.cache
+C:\Users\virgo\Downloads\Desktop\previas 2022\Biblioteca\obj\Debug\Biblioteca.vbproj.CoreCompileInputs.cache
+C:\Users\virgo\Downloads\Desktop\previas 2022\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\virgo\Downloads\Desktop\previas 2022\Biblioteca\obj\Debug\Biblioteca.xml
+C:\Users\virgo\Downloads\Desktop\previas 2022\Biblioteca\obj\Debug\Biblioteca.pdb
