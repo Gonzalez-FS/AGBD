@@ -1,0 +1,37 @@
+/* crear base de datos */
+create database previas
+
+/* usar base de datos */
+use previas
+
+/* crear tabla */
+create table libros
+(Id_libro INT not null IDENTITY PRIMARY KEY,
+Nombre varchar(30) not null,
+genero varchar(30) not null,
+precio int not null,
+cantidad int not null
+)
+
+/* llenar tabla */
+insert into libros values('libro1','fantasia',100,1)
+insert into libros values('libro2','fantasia',400,1)
+insert into libros values('libro3','terror',120,1)
+insert into libros values('libro4','historia',100,2)
+insert into libros values('libro magia', 'fantasia', 800,1)
+insert into libros values('libro fantasmas','terror',550,1)
+
+/* consulta in */
+select * from libros where genero in ('historia','terror')
+
+/* consulta and/or */
+select * from libros where genero = 'fantasia' and precio >300
+
+/* consulta having */
+select count(*), genero from libros group by genero having count(*) > 1
+
+/* consulta count/sum */
+select count(*) from libros where genero = 'fantasia'
+
+/* subconsulta and/or */
+select * from libros where (genero in ('fantasia','historia') and precio < 700)
